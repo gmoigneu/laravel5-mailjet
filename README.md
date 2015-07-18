@@ -1,6 +1,6 @@
-# Laravel 5 Mailjet Integration #
+# Laravel 5.1 Mailjet Integration #
 
-- **Laravel**: 5
+- **Laravel**: 5.1
 - **Author**: Ramon Ackermann
 - **Author Homepage**: https://github.com/sboo
 
